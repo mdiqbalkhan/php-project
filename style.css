@@ -1,0 +1,11 @@
+.table_area{
+	margin-top: 5%;
+	box-shadow: 3px 3px 20px grey;
+	padding: 30px;
+}
+
+.h5, h5 {
+    font-size: 1.25rem;
+    left: 5%;
+    margin-left: 27%;
+}
